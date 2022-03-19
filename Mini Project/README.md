@@ -3,12 +3,12 @@
 Create a clustering model to credit card categorize the dataset
 into appropriate cluster.
 This case requires to develop a customer
-segmentation to define marketing strategy. The
+segmentation to define marketing strategy. </br> The
 sample Dataset summarizes the usage behavior of about 9000 active credit card
 holders during the last 6 months. The file is at a customer level with 18 behavioral
 variables.
 
-Column Description:
+Column Description:</br>
 • CUSTID : Identification of Credit Card holder (Categorical)
 • BALANCE : Balance amount left in their account to make purchases
 • BALANCEFREQUENCY : How frequently the Balance is updated, score between 0
